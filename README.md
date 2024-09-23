@@ -35,6 +35,8 @@
 |23|SD_D1||
 |GND|GND|GND|
 |3V3|3V3|
+
+
 ![](https://github.com/shlkarl/GSM-Map/blob/main/src/Project/2.jpg)
 
 ## **Используемые библиотеки**
